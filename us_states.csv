@@ -1,0 +1,52 @@
+state_id;state_name;state_abbr;state_region;region_id
+1;Alabama;AL;south;4
+2;Alaska;AK;north;3
+3;Arizona;AZ;west;2
+4;Arkansas;AR;south;4
+5;California;CA;west;2
+6;Colorado;CO;west;2
+7;Connecticut;CT;east;1
+8;Delaware;DE;east;1
+9;District of Columbia;DC;east;1
+10;Florida;FL;south;4
+11;Georgia;GA;south;4
+12;Hawaii;HI;west;2
+13;Idaho;ID;midwest;5
+14;Illinois;IL;midwest;5
+15;Indiana;IN;midwest;5
+16;Iowa;IO;midwest;5
+17;Kansas;KS;midwest;5
+18;Kentucky;KY;south;4
+19;Louisiana;LA;south;4
+20;Maine;ME;north;3
+21;Maryland;MD;east;1
+22;Massachusetts;MA;north;3
+23;Michigan;MI;north;3
+24;Minnesota;MN;north;3
+25;Mississippi;MS;south;4
+26;Missouri;MO;south;4
+27;Montana;MT;west;2
+28;Nebraska;NE;midwest;5
+29;Nevada;NV;west;2
+30;New Hampshire;NH;east;1
+31;New Jersey;NJ;east;1
+32;New Mexico;NM;west;2
+33;New York;NY;east;1
+34;North Carolina;NC;east;1
+35;North Dakota;ND;midwest;5
+36;Ohio;OH;midwest;5
+37;Oklahoma;OK;midwest;5
+38;Oregon;OR;west;2
+39;Pennsylvania;PA;east;1
+40;Rhode Island;RI;east;1
+41;South Carolina;SC;east;1
+42;South Dakota;SD;midwest;5
+43;Tennessee;TN;midwest;5
+44;Texas;TX;west;2
+45;Utah;UT;west;2
+46;Vermont;VT;east;1
+47;Virginia;VA;east;1
+48;Washington;WA;west;2
+49;West Virginia;WV;south;4
+50;Wisconsin;WI;midwest;5
+51;Wyoming;WY;west;2
